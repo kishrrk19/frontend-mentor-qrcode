@@ -32,9 +32,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
--I learned how to use height for .container and elements. I should not use max-hight for container and it's better to fix the hight for elements.
--I should use min-height: 100vh; for container. The container automatically expands to match the height of the viewport, allowing the content to be fully displayed. 
--I should not use pixel for font-size and use rem.
+- I learned how to use height for .container and elements. I should not use max-hight for container and it's better to fix the hight for elements. 
+- I should not use pixel for font-size and use rem.
 
 ### Continued development
 
