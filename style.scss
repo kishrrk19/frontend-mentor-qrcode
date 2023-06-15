@@ -1,6 +1,5 @@
 body {
   font-family: 'Outfit', sans-serif;
-  font-size: 0.9rem;
   background-color: hsl(212, 45%, 89%);
 }
 
@@ -8,7 +7,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
 }
 
 .box {
@@ -31,18 +29,20 @@ body {
   border-radius: 5%;
 }
 
-h1, h2 {
+h1, p {
   text-align: center;
-  font-size: 0.9rem;
   width: 100%;
   margin: 1rem;
   align-items: center;
 }
 
 h1 {
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
-h2 {
+p {
+  font-size: 0.93rem;
+  font-weight: lighter;
   color: hsl(220, 15%, 55%);
 }
